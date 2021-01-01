@@ -6,3 +6,8 @@ You are encouraged to discuss with your classmates about the given assignments,b
 That is,discussions related to a particular solution to a specific problem(either in actual code or in the pseudocode)will not be tolerated.
 In short ,turnung in someone else's work,in whole or in part,as your own will be considerednas a violation of academic integrity.
 Please note that the former condition also holds for the meterial found on the web as everything on the web has been written by someone else.
+
+I acknowledge that I have fully read and undrestood the contents of the course;
+I will not share my work (not even a part of it) on telegram;
+I will be responsible for what has been discussed/asked on telegram;
+I undrestand that if I have any questions or concerns about the course mechanics,it is my reponsibility to discuss them with the instructors within their office hours.
